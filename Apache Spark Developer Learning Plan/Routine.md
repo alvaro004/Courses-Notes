@@ -1,0 +1,3 @@
+- **Morning**: Do a timed mock test or 1–2 labs.
+- **Afternoon**: Review weak areas and work through specific problems or functions you're struggling with.
+- **Evening**: Quick review using cheat sheets or summary notes on important concepts.
